@@ -6,7 +6,7 @@ I am a curious junior front-end developer who just finished a full-time accelera
 
 💛 I love to build and create in general but I especially love to create meaning and value.
                                                
-⬛️  I'm currently learning more React at Udemy, studying Flutter at The App brewery and looking forward to dive into Data Visualisation D3.js at the New York University shortly.
+🌱 I'm currently learning more React at Udemy, studying Flutter at The App brewery and looking forward to dive into Data Visualisation D3.js at the New York University shortly.
 
 
 ⬜️ I am an experienced design professional with more than 20 years of teaching and mentoring experience and a degree in both fine art and spatial design.
@@ -18,7 +18,7 @@ I am a curious junior front-end developer who just finished a full-time accelera
 🟪 I'm dedicated, structured, analytical, curious and not afraid to ask questions. I'm hard working; I can't leave things alone until they are solved:/ 
 
 
-🟦 I live in a small place called Sångshyttan, in Bergslagen, right in between Stockholm and Oslo. I moved from Amsterdam to Sweden approximately 20 years ago. In my spare time I like to read, write, draw, do yoga and walk with my dog.
+ 🌲 I live in a small place called Sångshyttan, in Bergslagen, right in between Stockholm and Oslo. I moved from Amsterdam to Sweden approximately 20 years ago. In my spare time I like to read, write, draw, do yoga and walk with my dog.
 
 
 🔷 Here are some of my projects:
