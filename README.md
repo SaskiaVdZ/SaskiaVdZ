@@ -31,11 +31,11 @@ Built on Javascript
 *   A simple portfolio in React (in progress). <br/>See [Live](http://localhost:3000/MyPortfolio) or in [Github](https://github.com/SaskiaVdZ/MyPortfolio)<br/>
 Built on React
 
-*   A responsive landing page, a project at Sundsgården, practicing Sass, grid, flex box, media queries, variables and mixins. From a design in Figma.<br/>See [Live](https://github.com/SaskiaVdZ/Bhroman-travel) or in [Github](https://saskiavdz.github.io/Bhroman-travel/)<br/>
+*   A responsive landing page, a project at Sundsgården, practicing Sass, grid, flex box, media queries, variables and mixins. From a design in Figma.<br/> See [Live](https://saskiavdz.github.io/Bhroman-travel/) or in [Github](https://github.com/SaskiaVdZ/Bhroman-travel)
 Built on HTML, CSS, Sass
     
 
-*   A kiosk site, three page portfolio, from Figma design. <br/>See [Live](https://saskiavdz.github.io/GenesisPortfolio-lesson11/index.html) or in [Github](https://github.com/SaskiaVdZ/GenesisPortfolio-lesson11)<br/>
+*   A kiosk site (1440px), three page portfolio, from Figma design. <br/>See [Live](https://saskiavdz.github.io/GenesisPortfolio-lesson11/index.html) or in [Github](https://github.com/SaskiaVdZ/GenesisPortfolio-lesson11)<br/>
 Built on HTML, CSS, Sass
 <pre>
 
