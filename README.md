@@ -3,7 +3,7 @@
 
 I am a curious junior front-end developer who just finished a full-time accelerated vocational course at Sundsgården folkhögskola: IT - Front end Developer, Tech for women.
 
-💛 I love to build and create in general but I especially love to create meaning and value and to contribute.
+💛 I love to build and create in general but I especially love to to contribute and create meaning and value.
 
 🌱 Currently I'm learning more React at Udemy, studying Flutter at The App brewery and looking forward to dive into Data Visualisation D3.js at the New York University, shortly.
 
