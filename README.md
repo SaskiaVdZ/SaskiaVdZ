@@ -1,3 +1,5 @@
+
+![image](https://github.com/SaskiaVdZ/SaskiaVdZ/assets/143086816/03c9a816-f9d1-4a59-b8c1-2695d22e881d)
 <h1>Hi, My name is Saskia</h1>
 <br/>
 
