@@ -33,7 +33,7 @@ Built on React Vite
 *   An expense tracker, another school project from Sundsgården, in Javascript only.<br/>See [Live](https://saskiavdz.github.io/expenseTracker/) or in [Github](https://github.com/SaskiaVdZ/expenseTracker)<br/>
 Built on Javascript
 
-*   A simple portfolio in React (in progress). <br/>See [Live](https://saskiavdz.github.io/MyPortfolio/) or in [Github](https://github.com/SaskiaVdZ/MyPortfolio)<br/>
+*   A simple portfolio in React (in progress). Lighthouse report: Performance 97, Accessibility 94, Best Practices 100, SEO 100.  <br/>See [Live](https://saskiavdz.github.io/MyPortfolio/) or in [Github](https://github.com/SaskiaVdZ/MyPortfolio)<br/>
 Built on React
 
 *   A responsive landing page, a project at Sundsgården, practicing Sass, grid, flex box, media queries, variables and mixins. From a design in Figma.<br/> See [Live](https://saskiavdz.github.io/Bhroman-travel/) or in [Github](https://github.com/SaskiaVdZ/Bhroman-travel)
