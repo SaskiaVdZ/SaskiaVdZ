@@ -8,7 +8,7 @@ I am a curious junior front-end developer who just finished a full-time accelera
 
 🌱 Currently I'm learning more React at Udemy, studying Flutter at The App brewery and looking forward to dive into Data Visualisation D3.js at the New York University, shortly.
 
-•  An experienced design professional with more than 20 years of teaching and mentoring experience.
+•  I'm an experienced design professional with more than 20 years of teaching and mentoring experience.
 
 •  A life-long learner, always hungry to study and learn more.
 
@@ -16,7 +16,7 @@ I am a curious junior front-end developer who just finished a full-time accelera
 
 •  I like to make complex things understandable by turning them into mini bite-size bits and steps.
 
-•  Dedicated, structured, analytical, curious and not afraid to ask questions.
+•  I'm Dedicated, structured, analytical, curious and not afraid to ask questions.
 
 •  I can't leave things alone until they are solved:/
 
@@ -55,5 +55,5 @@ Built on HTML, CSS, Sass
 
 </pre>
 **Skills:**
-HTML, CSS, Javascript, Sass, React, Vite, Git & Github and Bootstrap.
+HTML, CSS, Javascript, Sass, React, Vite, Git & Github, Material UI and Bootstrap.
 
