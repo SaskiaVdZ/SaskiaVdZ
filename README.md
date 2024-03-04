@@ -40,7 +40,7 @@ Built on React
 Built on HTML, CSS, Sass
     
 
-*   A kiosk site (1440px), a three page portfolio, based on a Figma design. <br/>See [Live](https://saskiavdz.github.io/GenesisPortfolio-lesson11/index.html) or in [Github](https://github.com/SaskiaVdZ/GenesisPortfolio-lesson11)<br/>
+*   A kiosk site, a three page portfolio, based on a Figma design. <br/>See [Live](https://saskiavdz.github.io/GenesisPortfolio-lesson11/index.html) or in [Github](https://github.com/SaskiaVdZ/GenesisPortfolio-lesson11)<br/>
 Built on HTML, CSS, Sass
 <pre>
 
