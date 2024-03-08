@@ -16,7 +16,7 @@ I am a curious junior front-end developer who just finished a full-time accelera
 
 •  I like to make complex things understandable by turning them into mini bite-size bits and steps.
 
-•  I'm Dedicated, structured, analytical, curious and not afraid to ask questions.
+•  I'm dedicated, structured, analytical, curious and not afraid to ask questions.
 
 •  I can't leave things alone until they are solved:/
 
