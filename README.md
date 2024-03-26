@@ -28,6 +28,7 @@ Currently I'm learning more React at Udemy, studying Flutter at The App brewery 
 *   Here is my portfolio: <br/>See [Live](https://portfoliosaskia.netlify.app) or in [Github](https://github.com/SaskiaVdZ/NewPortfolio)<br/>
 Built with React and Material UI
 </pre>
+<pre>
 
 
 </pre>
