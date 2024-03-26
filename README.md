@@ -35,10 +35,11 @@ Built with React and Material UI
 >**I am still learning**
 >
 >Michelangelo
+</pre>
 <pre>
 
 
 </pre>
 **Skills:**
 HTML, CSS, Javascript, Sass, React, Vite, Git & Github, Material UI and Bootstrap.
-
+</pre>
