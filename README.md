@@ -25,26 +25,8 @@ I am a curious junior front-end developer who just finished a full-time accelera
 
 
 </pre>
- **Here are some of my projects:**
-
-*   My final project at Sundsgården: a building game in React Vite, using @use-gesture library for the drag and drop function<br/>See prototype in [Figma](https://www.figma.com/file/B21D6fHtLqUR0sHl0PUelf/GAME-architectural-elements?type=design&node-id=0:1&mode=design&t=3dwItbKSU9JJQGU0-1)  or in [Github](https://github.com/SaskiaVdZ/sundsgarden_game_dragndrop). I will deploy a live version later.<br/>
-Built on React Vite
-
-*   An expense tracker, another school project from Sundsgården, in Javascript only.<br/>See [Live](https://saskiavdz.github.io/expenseTracker/) or in [Github](https://github.com/SaskiaVdZ/expenseTracker)<br/>
-Built on Javascript
-
-*   A simple portfolio in React (in progress). Lighthouse report: Performance 97, Accessibility 94, Best Practices 100, SEO 100.  <br/>See [Live](https://saskiavdz.github.io/MyPortfolio/) or in [Github](https://github.com/SaskiaVdZ/MyPortfolio)<br/>
-Built on React
-
-*   A responsive landing page, a project at Sundsgården, practicing Sass, grid, flex box, media queries, variables and mixins. From a design in Figma.<br/> See [Live](https://saskiavdz.github.io/Bhroman-travel/) or in [Github](https://github.com/SaskiaVdZ/Bhroman-travel)
-Built on HTML, CSS, Sass
-    
-
-*   A kiosk site, a three page portfolio, based on a Figma design. <br/>See [Live](https://saskiavdz.github.io/GenesisPortfolio-lesson11/index.html) or in [Github](https://github.com/SaskiaVdZ/GenesisPortfolio-lesson11)<br/>
-Built on HTML, CSS, Sass
-<pre>
-
-
+*   Here is my portfolio: <br/>See [Live](https://portfoliosaskia.netlify.app) or in [Github](https://github.com/SaskiaVdZ/NewPortfolio)<br/>
+Built with React and Material UI
 </pre>
 
 >**I am still learning**
