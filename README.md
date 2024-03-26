@@ -31,15 +31,8 @@ Built with React and Material UI
 <pre>
 
 
-</pre>
->**I am still learning**
->
->Michelangelo
-</pre>
-<pre>
-
 
 </pre>
-**Skills:**
+Skills:
 HTML, CSS, Javascript, Sass, React, Vite, Git & Github, Material UI and Bootstrap.
 </pre>
