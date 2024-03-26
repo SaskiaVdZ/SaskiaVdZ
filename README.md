@@ -8,9 +8,9 @@ I am a curious junior front-end developer who just finished a full-time accelera
 
 Currently I'm learning more React at Udemy, studying Flutter at The App brewery and looking forward to dive into Data Visualisation D3.js at the New York University, shortly. 🌱 
 
-•  I'm an experienced design professional with more than 20 years of teaching and mentoring experience,
+•   I'm an experienced design professional with more than 20 years of teaching and mentoring experience,
 
-•  a life-long learner, always hungry to study and learn more,
+•   a life-long learner, always hungry to study and learn more,
 
 •  a creative problem solver. 
 
