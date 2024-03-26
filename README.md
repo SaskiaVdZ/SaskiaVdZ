@@ -6,7 +6,7 @@ I am a curious junior front-end developer who just finished a full-time accelera
 
 💛 I love to build and create in general but I especially love to to contribute and create meaning and value.
 
-Currently I'm learning more React at Udemy, studying Flutter at The App brewery and looking forward to dive into Data Visualisation D3.js at the New York University, shortly 🌱 
+Currently I'm learning more React at Udemy, studying Flutter at The App brewery and looking forward to dive into Data Visualisation D3.js at the New York University, shortly. 🌱 
 
 •  I'm an experienced design professional with more than 20 years of teaching and mentoring experience.
 
@@ -25,7 +25,7 @@ Currently I'm learning more React at Udemy, studying Flutter at The App brewery 
 
 
 </pre>
-*   Here you can see my portfolio: [Live](https://portfoliosaskia.netlify.app) or in [Github](https://github.com/SaskiaVdZ/NewPortfolio)<br/>
+Here you can see my portfolio: [Live](https://portfoliosaskia.netlify.app) or in [Github](https://github.com/SaskiaVdZ/NewPortfolio)<br/>
 Built with React and Material UI
 </pre>
 <pre>
